@@ -1,4 +1,6 @@
 ---
+layout: page
+title: "LINKS"
 permalink: /LINKS/
 ---
 # Links
