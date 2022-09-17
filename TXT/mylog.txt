@@ -24,4 +24,5 @@ ZCZC W01 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W02 90 L09 Generate and upload GPG key
 ZCZC W02 110 L02 Tuesday OS Class B on Zoom Meeting
 ZCZC W02 115 L02 Thursday OS Class B on Zoom Meeting
-ZCZC W02 40 L05 QUiz related including studying
+ZCZC W02 40 L05 Quiz related including studying
+ZCZC W02 20 L09 Download and install scripts
