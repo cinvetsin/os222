@@ -21,3 +21,7 @@ ZCZC W01 110 L02 ZOOM meetings OS Class B
 ZCZC W01 120 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 95 L02 ZOOM meetings OS Class B
 ZCZC W01 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W02 90 L09 Generate and upload GPG key
+ZCZC W02 110 L02 Tuesday OS Class B on Zoom Meeting
+ZCZC W02 115 L02 Thursday OS Class B on Zoom Meeting
+ZCZC W02 40 L05 QUiz related including studying
