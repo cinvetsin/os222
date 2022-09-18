@@ -13,7 +13,7 @@ permalink: LINKS/
 <hr>
 
 # Links
-### W01
+### Week 01
 1. [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
    For those of you who learn Operating Systems and Linux from the very basic, here is the link for you to know some basic linux commands those are common to use
@@ -23,3 +23,14 @@ permalink: LINKS/
 3. [BASIC VI EDITOR COMMANDS](https://www.marquette.edu/mathematical-and-statistical-sciences/basic-vi-editor-commands.php)
 
    We can edit file via vi editor commands. And here is the link for us to learn some basic vi editor commands.
+
+### Week 02
+1. [C Programming Tutorial for Beginners] (https://www.youtube.com/watch?v=KJgsSFOSQv0)
+
+   This video helps you to have a marathon learning about C programming language. This language might help you in this Operating Systems Class!
+2. [Chmod calculator] (https://chmod-calculator.com/)
+
+   Need a help on converting Linux file permissions between different formats? Let's try this website for calculating the chmod.
+3. [What is Cyber Security? Everything You Need to Know] (https://www.simplilearn.com/introduction-to-cyber-security-article)
+
+   This is an article that might be your basic knowledge about Cyber Security.
