@@ -25,12 +25,12 @@ permalink: LINKS/
    We can edit file via vi editor commands. And here is the link for us to learn some basic vi editor commands.
 
 ### Week 02
-1. [C Programming Tutorial for Beginners] (https://www.youtube.com/watch?v=KJgsSFOSQv0)
+1. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
    This video helps you to have a marathon learning about C programming language. This language might help you in this Operating Systems Class!
-2. [Chmod calculator] (https://chmod-calculator.com/)
+2. [Chmod calculator](https://chmod-calculator.com/)
 
    Need a help on converting Linux file permissions between different formats? Let's try this website for calculating the chmod.
-3. [What is Cyber Security? Everything You Need to Know] (https://www.simplilearn.com/introduction-to-cyber-security-article)
+3. [What is Cyber Security? Everything You Need to Know](https://www.simplilearn.com/introduction-to-cyber-security-article)
 
    This is an article that might be your basic knowledge about Cyber Security.
