@@ -33,4 +33,4 @@ permalink: LINKS/
    Need a help on converting Linux file permissions between different formats? Let's try this website for calculating the chmod.
 3. [What is Cyber Security? Everything You Need to Know](https://www.simplilearn.com/introduction-to-cyber-security-article)
 
-   This is an article that might be your basic knowledge about Cyber Security.
+   This is an article that might be useful as your basic knowledge about Cyber Security.
