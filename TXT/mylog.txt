@@ -32,3 +32,12 @@ ZCZC W02 20 L43 Peer Review (links) in Week 02 for no. 40-49
 ZCZC W02 60 L44 Setting myscript.sh and using it for encrypting tarball
 ZCZC W02 60 L08 Asking to a friend related to scripting
 ZCZC W02 10 L12 Assignment #02
+ZCZC W03 110 L02 Tuesday OS Class B on Zoom Meeting
+ZCZC W03 110 L02 Thursday OS Class B Offline
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 30 L08 Asking to a friend related to encrypting file
+ZCZC W03 40 L44 myscript.sh related to encrypting tarball for Week 03
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 60 L43 Peer Review (links) in Week 03 for no. 50-59
+ZCZC W03 90 L04 Editing links.md (adding some links related to Week 03) 
