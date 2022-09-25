@@ -34,3 +34,18 @@ permalink: LINKS/
 3. [What is Cyber Security? Everything You Need to Know](https://www.simplilearn.com/introduction-to-cyber-security-article)
 
    This is an article that might be useful as your basic knowledge about Cyber Security.
+
+### Week 03
+1. [File System Interface in Operating Systems](https://www.w3schools.in/operating-system/file-system-interface)
+
+   File system provides users the method to storage and access data as well as programs of the operating system where all the users of the computer system can use it.
+2. [Filesystem Hierarchy Standard(FHS)](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+
+   The Filesystem Hierarchy Standard (FHS) is a reference describing the conventions used for the layout of a UNIX system.
+3. [File System Implementation in Operating Systems](https://www.w3schools.in/operating-system/file-system-implementation)
+
+   This article is concerned with issues related to file storage and accessing them on the most common secondary storage standard.
+
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
