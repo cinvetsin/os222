@@ -45,6 +45,9 @@ permalink: LINKS/
 3. [File System Implementation in Operating Systems](https://www.w3schools.in/operating-system/file-system-implementation)
 
    This article is concerned with issues related to file storage and accessing them on the most common secondary storage standard.
+4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
+
+   We know three main disk space or file allocation methods: contiguous, linked, and indexed allocation. And this link will give you much information about those methods.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
