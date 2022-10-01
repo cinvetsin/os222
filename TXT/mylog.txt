@@ -40,5 +40,12 @@ ZCZC W03 30 L08 Asking to a friend related to encrypting file
 ZCZC W03 40 L44 myscript.sh related to encrypting tarball for Week 03
 ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 60 L43 Peer Review (links) in Week 03 for no. 50-59
-ZCZC W03 90 L04 Editing links.md (adding some links related to Week 03) 
+ZCZC W03 90 L04 Editing links.md (adding some links related to Week 03)
+ZCZC W04 20 L01 Reading announcements and discussion forum at SCELE 
 ZCZC W04 100 L02 Tuesday OS Class B on Zoom Meeting
+ZCZC W04 100 L00 General: Thursday OS Class B offline
+ZCZC W04 60 L09 Run W04 scripts (complie TLPI)
+ZCZC W04 20 L05 Friday Quiz
+ZCZC W04 60 L05 Quiz related to C-language (print formatting)
+ZCZC W04 150 L25 Pop Quiz related to C-language and Makefile
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related 
