@@ -5,7 +5,6 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL]( {{site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
@@ -48,6 +47,20 @@ permalink: LINKS/
 4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
 
    We know three main disk space or file allocation methods: contiguous, linked, and indexed allocation. And this link will give you much information about those methods.
+
+### Week 04
+1. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+
+   Here's a basic knowledge about pointers in C!
+2. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)
+
+   You might want to know Little Endian vs Big Endian and how important it is.
+3. [printf](https://legacy.cplusplus.com/reference/cstdio/printf/)
+
+   As we also learn about C-language, of course we need to know about print formatting in C.
+4. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+
+   This link will give you some insights about logical and physical addressing and some differences between them. 
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
