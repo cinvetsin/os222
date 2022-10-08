@@ -1,7 +1,7 @@
-# Hi, Everyone! 🤩🙌
-<font size="20">**Welcome to Sasha's Operating Systems Page**</font>
+# **Hi, Everyone! 🤩🙌**
 
----
+<p style="font-weight:bold;font-size:20px;">Welcome to Sasha's Operating Systems Page</p>
+
 ---
 
 [LOG]({{site.baseurl}}{{site.myloglink}}) | [LINKS]({{site.baseurl}}/LINKS/) | [GitHub]({{site.githublink}})
