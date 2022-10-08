@@ -1,10 +1,13 @@
 # Hi, Everyone! 🤩🙌
-<font size = "20">**Welcome to Sasha's Operating Systems Page**</font>
+**Welcome to Sasha's Operating Systems Page**
+
 ---
 ---
 
 
-[LOG](https://cinvetsin.github.io/os222/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) | [Github](https://github.com/cinvetsin/os222/)
+[LOG]({{site.baseurl}}{{site.myloglink}}) | [LINKS]({{site.baseurl}}/LINKS/) | [GitHub]({{site.githublink}})
+
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
