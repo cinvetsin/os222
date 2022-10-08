@@ -60,7 +60,19 @@ permalink: LINKS/
    As we also learn about C-language, of course we need to know about print formatting in C.
 4. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 
-   This link will give you some insights about logical and physical addressing and some differences between them. 
+   This link will give you some insights about logical and physical addressing and some differences between them.
+
+### Week 05
+1. [Popular Vim Commands - Comprehensive Vim Cheat Sheet](https://www.keycdn.com/blog/vim-commands)
+
+   Vim stands for vi improved. Available both as a command line interface and as a standalone program with a GUI, Vim is a text editor that is a modal version of the vi editor created for Unix. Here a cheat sheet to make you do vim commands easier.
+2. [Virtual Memory on Linux](https://www.makeuseof.com/virtual-memory-on-linux/)
+
+   Based on the article, virtual memory is a way of representing your memory that's abstracted from the physical memory on your machine. This article also tells you how to manage the virtual memory.
+3. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
+
+   In this page, we would learn page replacement algorithms in operating systems, such as FIFO (First-In-First-Out), Optimal Page Replacement, LRU (Least Recently Used), and MRU (Most Recently Used).
+ 
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
