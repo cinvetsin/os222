@@ -48,4 +48,11 @@ ZCZC W04 60 L09 Run W04 scripts (complie TLPI)
 ZCZC W04 20 L05 Friday Quiz
 ZCZC W04 60 L05 Quiz related to C-language (print formatting)
 ZCZC W04 150 L25 Pop Quiz related to C-language and Makefile
-ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related 
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 100 L02 Tuesday OS Class B on Zoom Meeting
+ZCZC W05 100 L00 General: Thursday OS Class B offline
+ZCZC W05 60 L05 Wednesday-Thursday Quiz related to C-language (pointer)
+ZCZC W05 60 L05 Friday Quiz about W05 topic (virtual memory)
+ZCZC W05 90 L15 Assignment #05 : Run W05 script (memory)
+ZCZC W05 30 L27 Pop Quiz: SSH to os1.cs.ui.ac.id
+ZCZC W05 90 L31 Pop Quiz: Boot virtualbox with the lowest memory it could
