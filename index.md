@@ -1,6 +1,9 @@
 # **Hi, Everyone! 🤩🙌**
 
-<p style="font-weight:bold;font-size:20px;">Welcome to Sasha's Operating Systems Page</p>
+>### **Welcome to Sasha's Operating Systems Page**
+>
+<br><br>
+**_🍀 Veni, vidi, vici 🍀_**
 
 ---
 
