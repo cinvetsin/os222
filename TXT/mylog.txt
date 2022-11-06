@@ -56,3 +56,11 @@ ZCZC W05 60 L05 Friday Quiz about W05 topic (virtual memory)
 ZCZC W05 90 L15 Assignment #05 : Run W05 script (memory)
 ZCZC W05 30 L27 Pop Quiz: SSH to os1.cs.ui.ac.id
 ZCZC W05 90 L31 Pop Quiz: Boot virtualbox with the lowest memory it could
+ZCZC W06 110 L00 General: Tuesday OS Class B offline
+ZCZC W06 110 L00 General: Thursday OS Class B offline
+ZCZC W06 60 L05 Wednesday-Thursday Quiz related to C-language (pointer)
+ZCZC W06 90 L05 Friday Quiz about W06 topic (Processes, Threads, and Concurrency)
+ZCZC W06 90 L16 Assignment #06 : Run W06 script (fork and shared memory)
+ZCZC W06 40 L27 Pop Quiz: SSH to os1.cs.ui.ac.id
+ZCZC W06 90 L31 Pop Quiz: update kernel version
+ZCZC W06 120 L25 Pop Quiz: TARBALL (encrypting file)
