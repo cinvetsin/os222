@@ -73,6 +73,16 @@ permalink: LINKS/
 
    In this page, we would learn page replacement algorithms in operating systems, such as FIFO (First-In-First-Out), Optimal Page Replacement, LRU (Least Recently Used), and MRU (Most Recently Used).
  
+### Week 06
+1. [Threads in Operating Systems](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)
+
+   From this article, we will learn why we need threads, their components, the differences with process, and the types of threads.
+2. [Process Control Block in Operating Systems](https://afteracademy.com/blog/process-control-block-in-operating-system)
+
+   A Process Control Block or simple PCB is a data structure that is used to store the information of a process that might be needed to manage the scheduling of a particular process.
+3. [Process Creation and Termination in OS](https://www.tutorialspoint.com/process-creation-vs-process-termination-in-operating-system)
+
+    System must provide mechanisms for process creation and termination.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
