@@ -84,6 +84,17 @@ permalink: LINKS/
 
     System must provide mechanisms for process creation and termination.
 
+### Week 07
+1. [Classical Problems of Synchronization](https://www.studytonight.com/operating-system/classical-synchronization-problems)
+   
+   This article mentioned three problems of synchronization to be discussed. Those consist of Bounded Buffer (Producer-Consumer) Problem, Dining Philosophers Problem, and The Readers Writers Problem.
+2. [Deadlock](https://binus.ac.id/malang/2017/09/deadlock/)
+
+   This article was written in Bahasa and it's suitable for Indonesians to understand about deadlock, timeout, how to prevent and detect deadlock.
+3. [Semaphores in Operating Systems](https://www.tutorialspoint.com/semaphores-in-operating-system)
+   
+   This is not the type of semaphore that we knew from scout. Semaphores are integer variables that are used to solve the critical section problem by using two atomic operations, wait and signal. 
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>

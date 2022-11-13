@@ -64,3 +64,11 @@ ZCZC W06 90 L16 Assignment #06 : Run W06 script (fork and shared memory)
 ZCZC W06 40 L27 Pop Quiz: SSH to os1.cs.ui.ac.id
 ZCZC W06 90 L31 Pop Quiz: update kernel version
 ZCZC W06 120 L25 Pop Quiz: TARBALL (encrypting file)
+ZCZC W07 110 L00 General: Tuesday OS Class B offline
+ZCZC W07 110 L00 General: Thursday OS Class B offline
+ZCZC W07 60 L05 Wednesday-Thursday Quiz related to page number and page offset
+ZCZC W07 90 L05 Friday Quiz about W07 topic (Process Synchronization)
+ZCZC W07 90 L17 Assignment #07 : Run W07 script (synchronization)
+ZCZC W07 30 L27 Pop Quiz 1 : SSH to os1.cs.ui.ac.id
+ZCZC W07 120 L25 Pop Quiz 2 : TARBALL (encrypting file and copying it to os1.cs.ui.ac.id)
+ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related 
