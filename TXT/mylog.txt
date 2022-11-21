@@ -71,4 +71,14 @@ ZCZC W07 90 L05 Friday Quiz about W07 topic (Process Synchronization)
 ZCZC W07 90 L17 Assignment #07 : Run W07 script (synchronization)
 ZCZC W07 30 L27 Pop Quiz 1 : SSH to os1.cs.ui.ac.id
 ZCZC W07 120 L25 Pop Quiz 2 : TARBALL (encrypting file and copying it to os1.cs.ui.ac.id)
-ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related 
+ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 110 L00 General: Tuesday OS Class B offline
+ZCZC W08 110 L02 Tuesday OS Class B on Zoom Meeting
+ZCZC W08 60 L05 Wednesday-Thursday Quiz realted to PID and PPID
+ZCZC W08 90 L05 Friday Quiz about W08 topic (CPU scheduling)
+ZCZC W08 180 L18 Assignment #08 : LFS Ch. 1-5
+ZCZC W08 20 L27 Pop Quiz 1 : 97-OS1-CHECK.sh
+ZCZC W08 20 L25 Pop Quiz 2 : TARBALL (encrypting file and copying it to os1.cs.ui.ac.id)
+ZCZC W08 20 L05 Pop Quiz 3 : Time to compile GCC
+ZCZC W08 20 L05 Pop Quiz 4 : My SBU and CPU
+ZCZC W08 30 L06 Reading the W08 materials 
