@@ -99,12 +99,19 @@ permalink: LINKS/
 1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)
 
    This is the documentation for you to understand the concept of Linux From Scratch. This link gives you the tutorial, step by step from chapter to chapter and it's quite easy to understand for beginners.
-2. [How to build LInux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+2. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
 
    The link of youtube playlist itself was already given while we read the Weekly Assignment. But, I truly suggest y'all to watch this because it helps me to comprehend the concept of LFS, step by step, and how to do it. And if you feel confused to read the documentation, I recommend you to watch this.
-3. [CPU Scheduling | Chapter 5](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
+3. [CPU Scheduling - Chapter 5](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
 
    This is a youtube playlist from Neso Academy about CPU Scheduling. The playlist contains so many videos about scheduling algorithms and how to solve the problem from each algorithms. This playlist may help you to understand the previous final tests from Operating Systems Class.
+
+### Week 09
+1. [Do LFS for Chapter 6-7](https://www.linuxfromscratch.org/lfs/view/11.2/)
+
+   The same guide link as last week's assignment
+2. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management)
+   This article gives a brief explanation about mass storage management and disk scheduling algorithms
 
 
 <hr>
