@@ -89,3 +89,11 @@ ZCZC W09 90 L05 Friday Quiz related to topic W09
 ZCZC W09 60 L44 run myscript.sh for this week
 ZCZC W09 60 L19 Assignment #09 : LFS Ch. 6-7
 ZCZC W09 60 L06 Reading W09 materials
+ZCZC W10 110 L00 General: Tuesday OS Class offline
+ZCZC W10 110 L02 Thursday OS Class B on zoom meeting
+ZCZC W10 60 L05 Wednesday-Thursday Quiz
+ZCZC W10 60 Friday Quiz related to topic W10
+ZCZC W10 30 L44 run myscript.sh for this week
+ZCZC W10 480 L20 Assignment #10 : LFS Ch. 8
+ZCZC W10 40 L27 Pop Quiz 1: do cleaning at os1.cs.ui.ac.id
+ZCZC W10 40 L03 Pop Quiz 2: do cleaning at our repo
