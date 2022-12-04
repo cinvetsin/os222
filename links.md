@@ -111,7 +111,18 @@ permalink: LINKS/
 
    The same guide link as last week's assignment
 2. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management)
+
    This article gives a brief explanation about mass storage management and disk scheduling algorithms
+
+### Week 10
+1. [The features of RAID technology](https://www.fujitsu.com/global/products/computing/storage/eternus/glossary/raid/feature.html)
+
+   This topic is supposed to be in Week09's links, but I put it on Week10's since this topic is quite interesting to talk about. So, this article by Fujitsu gives you a basic understanding about RAID technology.
+
+2. [Principles of I/O Software](https://gcallah.github.io/OperatingSystems/IOSoftware.html)
+
+   This is a brief explanation about I/O software.
+   
 
 
 <hr>
